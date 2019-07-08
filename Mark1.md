@@ -2,19 +2,19 @@ Linea1
 
 Linea2
 
-#Encabezado1
-##Encabezado2
-###Encabezado3
-####Encabezado4
-#####Encabezado5
-######Encabezado6
-#######Encabezado7
+# Encabezado1
+## Encabezado2
+### Encabezado3
+#### Encabezado4
+##### Encabezado5
+###### Encabezado6
+####### Encabezado7
 
 > Citas.
 > Yo sólo se que no se nada.
 >>
 
-##Listas
+## Listas
 - Manzanas
     * Fruta
 * Tacos
@@ -43,7 +43,7 @@ ___Texto en cursiva y negritas___
 ```javascript
   console.log("Hola mundo!");
 ```
-![Imagen](https://www.google.com.mx/search?hl=es-419&biw=1366&bih=657&tbm=isch&sa=1&ei=8bAeXMfOGo3KswW_n5OYBQ&q=monster+inc+university&oq=monster+inc+u&gs_l=img.1.0.0l10.464186.464542..465519...0.0..0.102.199.1j1......1....1..gws-wiz-img.......0i67.CPmZ0eq_1fQ#imgrc=_G1Te5o60pDmvM:)
+![Imagen](https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/1.png)
 
 ##Tablas
 
