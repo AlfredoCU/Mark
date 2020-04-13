@@ -45,7 +45,7 @@ ___Texto en cursiva y negritas___
 ```
 ![Imagen](https://github.com/AlfredoCU/Videojuego-Brigadista/blob/master/Img/1.png)
 
-##Tablas
+## Tablas
 
 Cabecera A | Cabecera B | Cabecera C
 --|--|--|
